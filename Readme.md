@@ -1,11 +1,11 @@
-# Angular Developer Italiani (ADI)
+# Javascript Developer Italiani (JDI)
 
-ADI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
-Il gruppo è nato con lo scopo di radunare i migliori sviluppatori Angular italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
+JDI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
+Il gruppo è nato con lo scopo di radunare i migliori sviluppatori Angular italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Crescendo il gruppo si è evoluto in Javascript Developer Italiani per includere uno spettro più ampio di argomenti, competenze e appassionati. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
 
-Come tutte le comunità anche ADI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
+Come tutte le comunità anche JDI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
 
-> NOTA: Questo regolamento è stato stilato dagli admin della community [Web Developer Italiani](https://www.facebook.com/groups/webdeveloperitaliani/) che ringrazio per avermi dato il consenso di utilizzarlo nella community [Angular Developer Italiani](https://www.facebook.com/groups/angularjs.developer.italiani/)
+> NOTA: Questo regolamento è stato stilato dagli admin della community [Web Developer Italiani](https://www.facebook.com/groups/webdeveloperitaliani/) che ringrazio per avermi dato il consenso di utilizzarlo nella community [Javascript Developer Italiani](https://www.facebook.com/groups/javascript.developer.italiani/)
 
 ## No diffamazione
 
@@ -16,7 +16,7 @@ Le minacce o insulti alla persona sono strettamente vietati, non tolleriamo ness
 
 ## No spam
 
-Angular Developer Italiani approva e condivide pienamente tutti i termini e condizioni di utilizzo di Facebook, in particolare si ricorda che:
+Javascript Developer Italiani approva e condivide pienamente tutti i termini e condizioni di utilizzo di Facebook, in particolare si ricorda che:
 
 - È vietato pubblicare materiale illegale come software pirata e licenze condivise
 - È vietato il brigantaggio o le azioni contro altri gruppi simili o uguali a WDI
@@ -25,7 +25,7 @@ Angular Developer Italiani approva e condivide pienamente tutti i termini e cond
 
 ## Screenshot anonimizzati
 
-Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsiasi altra piattaforma esterna a ADI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
+Screenshot di altri gruppi su Facebook, di commenti su GitHub, Reddit o qualsiasi altra piattaforma esterna a JDI dovranno essere pubblicati con il minor numero di indizi che riconducano alle persone coinvolte. Per poter pubblicare uno screenshot esso dovrà essere il più anonimo possibile, con le censure necessarie a nomi, foto di riferimento e contatti.
 
 ## No referral link
 
@@ -34,7 +34,7 @@ Per poter pubblicare un link esterno con incluso un referral dovrete prima chied
 
 ## Hashtag in ogni post
 
-Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. ADI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
+Ogni post deve iniziare con un hashtag. L'hashtag va messo tra parentesi quadre `[#esempio]` e deve essere pertinente alla discussione che si vuole creare. JDI utilizza gli hashtag per indicizzare e catalogare i vari post in modo tale da creare un archivio ordinato e coerente.
 
 Alcuni esempi di hashtag corretti:
 
@@ -62,7 +62,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 
 ## No discriminazione
 
-La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato economico non hanno rilevanza all'interno di ADI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
+La vostra età, nazionalità, razza, preferenza sessuale o spirituale o stato economico non hanno rilevanza all'interno di JDI. Tutti sono i benvenuti nel gruppo, l'unico requisito richiesto per poter rimanere è saper comprendere, leggere e scrivere in lingua italiana.
 
 ## Suggerimenti per chiedere aiuto
 
@@ -91,7 +91,7 @@ Ecco alcune risorse:
 Grazie a tutti per le eventuali risposte.
 ```
 
-Ricordati che ADI non è un luogo per risolvere i tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
+Ricordati che JDI non è un luogo per risolvere i tuoi problemi scolastici, la consulenza è un dare/avere. Chi verrà sorpreso ad aggirare le linee guida oppure a sfruttare in modo esagerato la disponibilità degli utenti potrà essere sospeso dal gruppo.
 
 ## Offerte di lavoro
 
@@ -140,11 +140,11 @@ L'autopromozione continua di qualsiasi servizio o prodotto nel gruppo, in modo s
 
 ## Conferenze
 
-Se fai parte dello staff di una conferenza e vuoi farla conoscere su Angular Developer Italiani, sei il benvenuto!
+Se fai parte dello staff di una conferenza e vuoi farla conoscere su Javascript Developer Italiani, sei il benvenuto!
 
 Abbiamo tuttavia deciso di adottare alcune misure qualitative anche sotto questo punto di vista. Puoi pubblicare un post inerente la tua conferenza, a queste condizioni:
 
 * la conferenza è gratuita;
-* la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di ADI un buono sconto (in questo caso specifico, non postare subito ma scrivi prima ad uno degli amministratori);
+* la conferenza non è gratuita, ma puoi mettere a disposizione degli utenti di JDI un buono sconto (in questo caso specifico, non postare subito ma scrivi prima ad uno degli amministratori);
 
 Nota: i post inerenti una conferenza devono comunque seguire tutte le regole presenti in questo documento.
