@@ -1,7 +1,9 @@
 # Angular Developer Italiani (ADI)
 
 ADI è un gruppo che si basa sul rispetto delle competenze e della persona altrui.
-Il gruppo è nato con lo scopo di radunare i migliori sviluppatori Angular italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite. Laddove sia necessario proporre soluzioni a pagamento, è obbligatorio fornire tutti i dettagli nel modo più chiaro possibile.
+Il gruppo è nato con lo scopo di radunare i migliori sviluppatori Angular italiani sotto un'unica ala in modo tale da scambiarsi idee ed opinioni nel rispetto reciproco al limite delle possibilità gratuite.
+
+Proporre soluzioni, eventi a pagamento è vietato. Per questo tipo di contenuti si rimanda al gruppo (Opportunità per developer italiani)[https://www.facebook.com/groups/opportunita.developer.italiani/]
 
 Come tutte le comunità anche ADI ha un set di regole che vanno rispettate, la violazione di una o più regole può comportare un ban temporaneo o permanente dal gruppo stesso.
 
@@ -40,7 +42,6 @@ Alcuni esempi di hashtag corretti:
 
 - [#rxjs #Observable]
 - [#evento #roma #free]
-- [#Lavoro #Milano]
 
 Alcuni esempi di Hashtags non idonei:
 
@@ -59,6 +60,7 @@ I seguenti contenuti possono essere rimossi a discrezione dei moderatori:
 - Gif, Meme o Reactions che non sono per niente rilevanti
 - Contenuti allo scopo di creare litigio o troll
 - Contenuti Off-Topic, anche se con hashtag
+- Condivisione di contenuti, prodotti o eventi a pagamento
 
 ## No discriminazione
 
@@ -95,44 +97,7 @@ Ricordati che ADI non è un luogo per risolvere i tuoi problemi scolastici, la c
 
 ## Offerte di lavoro
 
-Se stai offrendo lavoro ricordati di seguire le seguenti linee guida per un annuncio perfetto:
-
-**Voci obbligatorie:**
-
-- Inizia il post con l'hashtag `[#lavoro]`
-- Specifica l'azienda coinvolta
-- Specifica il tuo ruolo all'interno dell'azienda o in che modo sei venuto a conoscenza di tale offerta lavorativa
-- Specifica i requisiti necessari del candidato
-- Specifica il tipo di contratto (o i tipi di contratto possibili)
-- Specifica la retribuzione minima (RAL se contratto italiano dipendente, retribuzione oraria o giornaliera minima se riguarda liberi professionisti)
-
-Voci consigliate:
-
-- Specifica i benefit per il candidato
-- Indica una forbice retributiva (il minimo è obbligatorio come specificato in precedenza)
-- Indica se è possibile lavorare da remoto
-
-Di seguito vi mettiamo a disposizione un template per iniziare il post nella maniera migliore:
-
-```
-[#Lavoro #{Località} #{Piattaforma o Linguaggio principale}]
-
-Ciao a tutti.
-
-L'Azienda {Nome Azienda} sta cercando {Numero} di {Specialità richiesta} per {Motivazione principale}
-// Indica in maniera concisa una descrizione dell'azienda che ricerca tale/i profilo/i
-// Aggiungi dettagli come benefit, punti chiave del progetto o contatti aziendali
-
-Il candidato dovrà avere i seguenti requisiti:
-// Elenca in modo chiaro i requisiti richiesti, sii realista
-
-Se assunto, il candidato otterrà i seguenti benefit:
-// Elenca i benefit, come buoni pasto o simili
-
-// Per ciò che concerne lo stipendio siate chiari, indicate se è mensile o annuale e se la cifra
-// indicata è netta o lorda; qualora fossero inclusi eventuali rimborsi
-// (ad es.spese per i pendolari) indicate anche questi
-```
+Se stai offrendo lavoro ricordati di usare il gruppo (Opportunità per developer italiani)[https://www.facebook.com/groups/opportunita.developer.italiani/]
 
 ## No autopromozione
 
